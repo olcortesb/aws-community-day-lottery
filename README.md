@@ -2,6 +2,11 @@
 
 Sistema de sorteos interactivo para el AWS Community Day 2025 en Zaragoza. Una aplicación web moderna que permite realizar sorteos de premios de manera transparente y divertida.
 
+Aplicación creada utilizando `Amazon Kiro` durante el AWS Community Day 2025, desarrollada ese mismo día entre charlas, con dos objetivos principales:
+
+1. Evitar depender de distintas páginas web externas para realizar los sorteos, eliminando pasos manuales.
+2. Mostrar de forma práctica lo que puede hacerse con Amazon Kiro con solo unos pocos _prompts_.
+
 ## ✨ Características
 
 ### 🎰 Ruleta de Sorteo
@@ -108,6 +113,8 @@ Ideal para:
 ## 📄 Licencia
 
 Este proyecto está desarrollado para el AWS Community Day 2025 - Zaragoza.
+
+El código es propiedad de la comunidad y puede ser reproducido, modificado y reutilizado para cualquier fin, sin restricciones.
 
 ---
 
